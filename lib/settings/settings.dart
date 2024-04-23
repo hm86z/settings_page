@@ -122,6 +122,14 @@ class Settings extends StatelessWidget {
               ),
 
 
+              const SizedBox(height: 50,),
+              const Center(
+                child: Text('Developed by Hamza Alzibaq',textAlign: TextAlign.center,
+                  style: TextStyle(fontSize: 20,color: Colors.blue,fontWeight: FontWeight.w900),
+                ),
+              ),
+
+
               const SizedBox(height: 60,),
 
             ],
