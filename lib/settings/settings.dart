@@ -3,8 +3,14 @@ import 'package:flutter/material.dart';
 import '../constants.dart';
 import 'setting_widget.dart';
 
+
+
 class Settings extends StatelessWidget {
   const Settings({super.key});
+
+
+  ///https://www.tiktok.com/@professional__programmer
+
 
   @override
   Widget build(BuildContext context) {
